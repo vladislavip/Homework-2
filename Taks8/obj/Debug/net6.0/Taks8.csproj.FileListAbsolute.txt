@@ -1,0 +1,15 @@
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework 2 26_11_21\Homework 2\Taks8\bin\Debug\net6.0\Taks8.exe
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework 2 26_11_21\Homework 2\Taks8\bin\Debug\net6.0\Taks8.deps.json
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework 2 26_11_21\Homework 2\Taks8\bin\Debug\net6.0\Taks8.runtimeconfig.json
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework 2 26_11_21\Homework 2\Taks8\bin\Debug\net6.0\Taks8.dll
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework 2 26_11_21\Homework 2\Taks8\bin\Debug\net6.0\ref\Taks8.dll
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework 2 26_11_21\Homework 2\Taks8\bin\Debug\net6.0\Taks8.pdb
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework 2 26_11_21\Homework 2\Taks8\obj\Debug\net6.0\Taks8.csproj.AssemblyReference.cache
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework 2 26_11_21\Homework 2\Taks8\obj\Debug\net6.0\Taks8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework 2 26_11_21\Homework 2\Taks8\obj\Debug\net6.0\Taks8.AssemblyInfoInputs.cache
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework 2 26_11_21\Homework 2\Taks8\obj\Debug\net6.0\Taks8.AssemblyInfo.cs
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework 2 26_11_21\Homework 2\Taks8\obj\Debug\net6.0\Taks8.csproj.CoreCompileInputs.cache
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework 2 26_11_21\Homework 2\Taks8\obj\Debug\net6.0\Taks8.dll
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework 2 26_11_21\Homework 2\Taks8\obj\Debug\net6.0\ref\Taks8.dll
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework 2 26_11_21\Homework 2\Taks8\obj\Debug\net6.0\Taks8.pdb
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework 2 26_11_21\Homework 2\Taks8\obj\Debug\net6.0\Taks8.genruntimeconfig.cache

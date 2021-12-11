@@ -1,0 +1,15 @@
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework 2 26_11_21\Homework 2\Homework 2\bin\Debug\net6.0\Homework 2.exe
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework 2 26_11_21\Homework 2\Homework 2\bin\Debug\net6.0\Homework 2.deps.json
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework 2 26_11_21\Homework 2\Homework 2\bin\Debug\net6.0\Homework 2.runtimeconfig.json
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework 2 26_11_21\Homework 2\Homework 2\bin\Debug\net6.0\Homework 2.dll
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework 2 26_11_21\Homework 2\Homework 2\bin\Debug\net6.0\ref\Homework 2.dll
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework 2 26_11_21\Homework 2\Homework 2\bin\Debug\net6.0\Homework 2.pdb
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework 2 26_11_21\Homework 2\Homework 2\obj\Debug\net6.0\Homework 2.csproj.AssemblyReference.cache
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework 2 26_11_21\Homework 2\Homework 2\obj\Debug\net6.0\Homework 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework 2 26_11_21\Homework 2\Homework 2\obj\Debug\net6.0\Homework 2.AssemblyInfoInputs.cache
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework 2 26_11_21\Homework 2\Homework 2\obj\Debug\net6.0\Homework 2.AssemblyInfo.cs
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework 2 26_11_21\Homework 2\Homework 2\obj\Debug\net6.0\Homework 2.csproj.CoreCompileInputs.cache
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework 2 26_11_21\Homework 2\Homework 2\obj\Debug\net6.0\Homework 2.dll
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework 2 26_11_21\Homework 2\Homework 2\obj\Debug\net6.0\ref\Homework 2.dll
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework 2 26_11_21\Homework 2\Homework 2\obj\Debug\net6.0\Homework 2.pdb
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework 2 26_11_21\Homework 2\Homework 2\obj\Debug\net6.0\Homework 2.genruntimeconfig.cache

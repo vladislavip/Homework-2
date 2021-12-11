@@ -1,0 +1,15 @@
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework 2 26_11_21\Homework 2\Task7 (new)\bin\Debug\net6.0\Task7 (new).exe
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework 2 26_11_21\Homework 2\Task7 (new)\bin\Debug\net6.0\Task7 (new).deps.json
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework 2 26_11_21\Homework 2\Task7 (new)\bin\Debug\net6.0\Task7 (new).runtimeconfig.json
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework 2 26_11_21\Homework 2\Task7 (new)\bin\Debug\net6.0\Task7 (new).dll
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework 2 26_11_21\Homework 2\Task7 (new)\bin\Debug\net6.0\ref\Task7 (new).dll
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework 2 26_11_21\Homework 2\Task7 (new)\bin\Debug\net6.0\Task7 (new).pdb
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework 2 26_11_21\Homework 2\Task7 (new)\obj\Debug\net6.0\Task7 (new).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework 2 26_11_21\Homework 2\Task7 (new)\obj\Debug\net6.0\Task7 (new).AssemblyInfoInputs.cache
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework 2 26_11_21\Homework 2\Task7 (new)\obj\Debug\net6.0\Task7 (new).AssemblyInfo.cs
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework 2 26_11_21\Homework 2\Task7 (new)\obj\Debug\net6.0\Task7 (new).csproj.CoreCompileInputs.cache
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework 2 26_11_21\Homework 2\Task7 (new)\obj\Debug\net6.0\Task7 (new).dll
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework 2 26_11_21\Homework 2\Task7 (new)\obj\Debug\net6.0\ref\Task7 (new).dll
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework 2 26_11_21\Homework 2\Task7 (new)\obj\Debug\net6.0\Task7 (new).pdb
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework 2 26_11_21\Homework 2\Task7 (new)\obj\Debug\net6.0\Task7 (new).genruntimeconfig.cache
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework 2 26_11_21\Homework 2\Task7 (new)\obj\Debug\net6.0\Task7 (new).csproj.AssemblyReference.cache

@@ -1,0 +1,15 @@
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework 2 26_11_21\Homework 2\Task11\bin\Debug\net6.0\Task11.exe
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework 2 26_11_21\Homework 2\Task11\bin\Debug\net6.0\Task11.deps.json
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework 2 26_11_21\Homework 2\Task11\bin\Debug\net6.0\Task11.runtimeconfig.json
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework 2 26_11_21\Homework 2\Task11\bin\Debug\net6.0\Task11.dll
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework 2 26_11_21\Homework 2\Task11\bin\Debug\net6.0\ref\Task11.dll
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework 2 26_11_21\Homework 2\Task11\bin\Debug\net6.0\Task11.pdb
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework 2 26_11_21\Homework 2\Task11\obj\Debug\net6.0\Task11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework 2 26_11_21\Homework 2\Task11\obj\Debug\net6.0\Task11.AssemblyInfoInputs.cache
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework 2 26_11_21\Homework 2\Task11\obj\Debug\net6.0\Task11.AssemblyInfo.cs
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework 2 26_11_21\Homework 2\Task11\obj\Debug\net6.0\Task11.csproj.CoreCompileInputs.cache
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework 2 26_11_21\Homework 2\Task11\obj\Debug\net6.0\Task11.dll
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework 2 26_11_21\Homework 2\Task11\obj\Debug\net6.0\ref\Task11.dll
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework 2 26_11_21\Homework 2\Task11\obj\Debug\net6.0\Task11.pdb
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework 2 26_11_21\Homework 2\Task11\obj\Debug\net6.0\Task11.genruntimeconfig.cache
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework 2 26_11_21\Homework 2\Task11\obj\Debug\net6.0\Task11.csproj.AssemblyReference.cache
